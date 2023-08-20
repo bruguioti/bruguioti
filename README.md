@@ -13,8 +13,7 @@ Hello! My name is Bruna Coutinho and I am an enthusiastic technology student. Cu
 ![JavaScript](https://img.shields.io/badge/JavaScript-7f28b5?style=for-the-badge&logo=javascript&logoColor=ffffff)
 [![Git](https://img.shields.io/badge/Git-7f28b5?style=for-the-badge&logo=git&logoColor=ffffff)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-7f28b5?style=for-the-badge&logo=github&logoColor=ffffff)](https://docs.github.com/)
-![Java](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FJava-7f28b5%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dffffff
-)
+
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruguioti&theme=transparent&bg_color=ffffff&border_color=7f28b5&show_icons=true&icon_color=7f28b5&title_color=7f28b5&text_color=0b0a12)
