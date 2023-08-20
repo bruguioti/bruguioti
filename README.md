@@ -9,6 +9,7 @@ Hello! My name is Bruna Coutinho and I am an enthusiastic technology student. Cu
 ### Skills
 [![Git](https://img.shields.io/badge/Git-7f28b5?style=for-the-badge&logo=git&logoColor=ffffff)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-7f28b5?style=for-the-badge&logo=github&logoColor=ffffff)](https://docs.github.com/)
+[![GitHub](https://img.shields.io/badge/Java-7f28b5?style=for-the-badge&logo=java&logoColor=ffffff)]
 
 
 ### GitHub Stats
