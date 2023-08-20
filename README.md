@@ -13,5 +13,4 @@ Hello! My name is Bruna Coutinho and I am an enthusiastic technology student. Cu
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruguioti&theme=transparent&bg_color=ffffff&border_color=7f28b5&show_icons=true&icon_color=7f28b5&title_color=7f28b5&text_color=0b0a12)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bruguioti&layout=compact&bg_color=0b0a12&border_color=0b0a12&title_color=7f28b5&text_color=FFF)
 
