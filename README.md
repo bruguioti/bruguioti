@@ -4,6 +4,7 @@ Hello! My name is Bruna Coutinho and I am an enthusiastic technology student. Cu
 ### Connect with me
 [![Perfil DIO](https://img.shields.io/badge/-My%20profile%20on%20DIO-7f28b5?style=for-the-badge)](https://web.dio.me/users/brunaguioti2000/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-7f28b5?style=for-the-badge&logo=linkedin&logoColor=)](https://www.linkedin.com/in/bruna-coutinho-868b0a275/)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/brunacoutinho/)
 
 
 ### Skills
