@@ -1,7 +1,6 @@
 # Bruna Coutinho
-Hello! My name is Bruna Coutinho and I am an enthusiastic technology student. Currently, I am focused on the Systems Analysis and Development course, where I am improving my skills to understand, design and create innovative technological solutions. My passion for the world of programming and technology motivates me to explore different aspects of software development, while constantly looking to learn and apply new knowledge to face the challenges of the ever-evolving digital world.
+Oi! Sou Bruna Coutinho, uma apaixonada por tecnologia e inovação. Recentemente, me formei em Análise e Desenvolvimento de Sistemas e agora estou mergulhando mais fundo no universo da Engenharia da Computação. Adoro explorar o mundo da programação e encontrar maneiras criativas de resolver problemas. A cada novo projeto, busco aprender algo novo e colocar em prática, porque acredito que a tecnologia tem o poder de transformar nosso dia a dia. Estou sempre pronta para enfrentar os desafios desse mundo digital em constante mudança, com curiosidade e vontade de crescer.
 
-### Connect with me
 [![Perfil DIO](https://img.shields.io/badge/-My%20profile%20on%20DIO-7f28b5?style=for-the-badge)](https://web.dio.me/users/brunaguioti2000/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-7f28b5?style=for-the-badge&logo=linkedin&logoColor=)](https://www.linkedin.com/in/bruna-coutinho-868b0a275/)
 
