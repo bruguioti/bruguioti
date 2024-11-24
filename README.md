@@ -1,6 +1,3 @@
-Aqui está um **README** profissional e completo, pronto para ser adicionado ao seu portfólio no GitHub:
-
----
 
 # **Bruna Coutinho**  
 
