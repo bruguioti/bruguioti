@@ -12,6 +12,9 @@ Olá! Meu nome é **Bruna Coutinho**, sou formado em **Análise e Desenvolviment
 - 📘 **Pós-graduação em Data Science, Python e Django Stack**  
   _[Unicesumar]_ — Em andamento
 
+- 🎓 **Engenharia da Computação** – Em andamento  
+  _[Descomplica]_
+
 ---
 
 ## 🚀 Stack de Conhecimentos
