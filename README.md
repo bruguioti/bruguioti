@@ -1,47 +1,55 @@
-# 👨‍💻 Sobre Mim
+## Olá, meu nome é {seu nome}!
 
-Olá! Meu nome é **Bruna Coutinho**, sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Pós-graduação em Data Science com ênfase em Python e Django Stack**. Sou apaixonado por tecnologia, dados e desenvolvimento de soluções inteligentes que realmente fazem a diferença.
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+--- 
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
 
 ---
 
-## 🎓 Formação Acadêmica
-
-- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-  _[Unicesumar]_ — Concluído
-
-- 📘 **Pós-graduação em Data Science, Python e Django Stack**  
-  _[Unicesumar]_ — Em andamento
-
-- 🎓 **Engenharia da Computação** – Em andamento  
-  _[Descomplica]_
-
----
-
-## 🚀 Stack de Conhecimentos
-
-### Linguagens & Frameworks
-- 🐍 Python (Avançado)
-- 🌐 Django & Django Rest Framework
-- 📊 Pandas, NumPy, Scikit-learn
-- 📈 Matplotlib, Seaborn
-- 🧠 Machine Learning básico com Scikit-learn
-- 🧪 Testes com PyTest
-- 🧱 HTML5, CSS3, JavaScript
-- ⚛️ React (em aprendizado)
-
-### Banco de Dados
-- 🐘 PostgreSQL
-- 🐬 MySQL
-- 🗄️ SQLite
-- 📦 ORM com Django
-
-### Ferramentas & DevOps
-- 🐳 Docker
-- 🐙 Git & GitHub
-- 📦 Virtualenv / Pipenv
-- 🧰 VS Code, Jupyter Notebooks
-
----
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
 
 ## 📂 Projetos em Destaque
 
