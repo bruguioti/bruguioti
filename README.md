@@ -24,10 +24,14 @@ Desenvolvedora **FullStack** apaixonada por tecnologia. 💻✨
 
 ## 🔥 Projetos
 
-- Plataforma de **Análise Genômica** (Python + React) 🧬  
-- Blog de luxo com Django 📰  
-- Sistema de organização de aulas 📚  
-- Software de extração e correção de texto 📝  
+- **IA de Nutrição** 🍎  
+  Plataforma que utiliza inteligência artificial para sugerir planos alimentares personalizados.  
+
+- **Fila de Karaokê** 🎤  
+  Sistema interativo para organizar a fila de cantores, tocar músicas e gerenciar playlists.  
+
+- **Escola de Robótica** 🤖  
+  Plataforma educativa para organizar cursos, aulas e projetos de robótica para alunos de todas as idades.  
 
 ---
 
