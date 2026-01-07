@@ -15,52 +15,58 @@
 > **Core:** "Especialista em transformar fluxos complexos em soluções digitais de alto impacto."
 
 
+### 🛠️ Tech_Stack_Monitor (Minhas Tecnologias)
 
-### 🛠️ Config_Hardware (Tech Stack)
+#### 🐍 Backend & Data Intelligence
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-| 💾 Backend & Intelligence | 🖥️ Frontend & Interface | 🚀 DevOps & Cloud |
-| :--- | :--- | :--- |
-| `Python / Django / Flask` | `React.js / Next.js` | `Docker / CI/CD` |
-| `Pandas / NumPy / SQL` | `TailwindCSS / TypeScript` | `Vercel / Git Flow` |
+#### ⚛️ Frontend & UI/UX
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+#### 🚀 Infrastructure & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+
+
+### 📊 Performance_Analytics (Live Metrics)
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bruguioti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruguioti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bruguioti&theme=tokyonight&hide_border=true" />
+</p>
 
 
 ### 📂 Active_Directory (Projetos em Destaque)
 
 - **[PORTFÓLIO_OFICIAL]** » [brunacode.vercel.app](https://brunacode.vercel.app/)
   - `STATUS:` ONLINE 🟢
-  - `DESC:` Minha central de projetos, cases e artigos técnicos.
-
 - **[FINANCE_APP]** » [Sistema de Gestão Financeira](https://finan-as-yb6q.vercel.app/)
-  - `DESC:` Dashboard Full Stack para controle de fluxo de caixa e análise de dados.
+  - `DESC:` Dashboard Full Stack para controle de fluxo de caixa.
 
-
-
-### 📊 System_Analytics (Live Metrics)
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bruguioti&show_icons=true&theme=visual_studio_code&hide_border=true&count_private=true" />
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruguioti&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bruguioti&theme=react-dark&color=00ff00&bg_color=0d1117&hide_border=true" />
-</p>
 
 
 ### 📡 Establish_Link
-`[01]` [LinkedIn_Profile](https://br.linkedin.com/in/bruna-patricia-coutinho-868b0a275)  
-`[02]` [WhatsApp_Direct](https://wa.me/5544991659508?text=Olá+Bruna,+vi+seu+GitHub+e+gostaria+de+conversar+sobre+um+projeto.)  
-`[03]` [Official_Portfolio](https://brunacode.vercel.app/)
+`[01]` [LinkedIn](https://br.linkedin.com/in/bruna-patricia-coutinho-868b0a275)  
+`[02]` [WhatsApp](https://wa.me/5544991659508)  
+`[03]` [Website](https://brunacode.vercel.app/)
 
 
 
-```python
-# Script de inicialização diária
-def morning_routine():
-    stack = ['Python', 'Next.js', 'DevOps']
-    while True:
-        code_efficiently(stack)
-        solve_problems(status="High Priority")
-        if client_needs_help:
-            provide_solution(excellence=True)
+```sql
+-- Querying current status...
+SELECT focus FROM bruna_dev WHERE availability = 'FREELANCE';
+-- Output: Python, Data Intelligence, Full Stack Web
