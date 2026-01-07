@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=BRUNA%20PATRICIA&fontSize=80&animation=fadeIn&fontAlignY=40&theme=dark" />
-</div>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Analista_de_Sistemas-000?style=for-the-badge&logo=codetransfer&logoColor=7F00FF" />
@@ -38,17 +36,6 @@
   </tr>
 </table>
 
-
-### 📊 System_Metrics (Live Data)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruguioti&show_icons=true&theme=transparent&title_color=7F00FF&text_color=ffffff&icon_color=7F00FF&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruguioti&layout=compact&theme=transparent&title_color=7F00FF&text_color=ffffff&icon_color=7F00FF&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bruguioti&theme=react-dark&color=7F00FF&bg_color=0d1117&hide_border=true&area=true" />
-</div>
 
 
 ### 🚀 Deployed_Solutions
