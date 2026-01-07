@@ -7,11 +7,11 @@
 </div>
 
 
-### 🌐 Overview.exe
+###  Overview.exe
 *Sistemas de alto desempenho exigem arquiteturas resilientes.* Sou especialista em unir o poder analítico do **Python** com a agilidade do **Next.js**, escalando aplicações através de práticas **DevOps**. Minha base acadêmica me permite entregar não apenas código, mas soluções estruturadas e documentadas.
 
 
-### 🛠️ Core_Intelligence (The Tech Stack)
+###  Core_Intelligence (The Tech Stack)
 
 <table align="center">
   <tr>
@@ -38,14 +38,14 @@
 
 
 
-### 🚀 Deployed_Solutions
+###  Deployed_Solutions
 | Projeto | Status | Tech | Link |
 | :--- | :--- | :--- | :--- |
 | **Financial System** | `Production` | `Next.js / Tailwind` | [View Project](https://finan-as-yb6q.vercel.app/) |
 | **Professional Portfolio** | `Live` | `Next.js / SEO` | [View Project](https://brunacode.vercel.app/) |
 
 
-### 📡 Establish_Link
+###  Establish_Link
 <div align="center">
   <a href="https://br.linkedin.com/in/bruna-patricia-coutinho-868b0a275">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
