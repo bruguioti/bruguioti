@@ -8,12 +8,10 @@
   <img src="https://img.shields.io/badge/Engenheira_DevOps-000?style=for-the-badge&logo=docker&logoColor=7F00FF" />
 </div>
 
----
 
 ### 🌐 Overview.exe
 *Sistemas de alto desempenho exigem arquiteturas resilientes.* Sou especialista em unir o poder analítico do **Python** com a agilidade do **Next.js**, escalando aplicações através de práticas **DevOps**. Minha base acadêmica me permite entregar não apenas código, mas soluções estruturadas e documentadas.
 
----
 
 ### 🛠️ Core_Intelligence (The Tech Stack)
 
@@ -40,7 +38,6 @@
   </tr>
 </table>
 
----
 
 ### 📊 System_Metrics (Live Data)
 
@@ -53,7 +50,6 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bruguioti&theme=react-dark&color=7F00FF&bg_color=0d1117&hide_border=true&area=true" />
 </div>
 
----
 
 ### 🚀 Deployed_Solutions
 | Projeto | Status | Tech | Link |
@@ -61,7 +57,6 @@
 | **Financial System** | `Production` | `Next.js / Tailwind` | [View Project](https://finan-as-yb6q.vercel.app/) |
 | **Professional Portfolio** | `Live` | `Next.js / SEO` | [View Project](https://brunacode.vercel.app/) |
 
----
 
 ### 📡 Establish_Link
 <div align="center">
@@ -76,7 +71,6 @@
   </a>
 </div>
 
----
 
 ```javascript
 // A busca pela automação perfeita nunca termina
