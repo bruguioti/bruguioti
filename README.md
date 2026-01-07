@@ -1,41 +1,55 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=code&color=00ff00&height=150&section=header&text=Bruna%20Patricia&fontSize=70&animation=fadeIn">
-</div>
+# [SYSTEM START] > BRUNA_PATRICIA_COUTINHO_
 
-<div align="center">
-  <code><strong>System.out.println("Hello World! Welcome to my terminal.");</strong></code>
-  <br>
-  <img src="https://img.shields.io/badge/-Full%20Stack-00ff00?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Data%20Science-00ff00?style=flat-square&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/-DevOps-00ff00?style=flat-square&logo=docker&logoColor=black" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROLE-DEV_FULLSTACK-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LOCATION-BRAZIL-orange?style=for-the-badge" />
+</p>
 
 ---
 
-### 🛠️ Root@Bruna:~$ Whoami
-- **Class:** `Senior Educator` turning `Systems Analyst`
-- **Current_Subroutine:** `Postgraduate in DevOps Engineering`
-- **Specialization:** `Data Science & Organizational Intelligence`
-- **Core_Logic:** `Python, React/Next.js, SQL, Pandas`
-- **Status:** 🟢 Optimizing systems and building scalable infrastructures.
+### 🟢 `whoami`
+> **User:** Bruna Patricia  
+> **Specialization:** Systems Analysis & Data Science  
+> **Subroutine:** DevOps Engineering Graduate Student  
+> **Background:** Educational Specialist (Didática aplicada à tecnologia)
 
 ---
 
-### 🚀 Loaded Projects
-> **[root/finance-app]** » [Gestão Financeira Full Stack](https://finan-as-yb6q.vercel.app/)
-> _A high-performance financial dashboard built with Next.js, featuring real-time data visualization._
+### ⚡ Tech_Stack_Detected
+
+| Backend & Data | Frontend & UI | Infrastructure |
+| :--- | :--- | :--- |
+| `Python / Django / Flask` | `React.js / Next.js` | `Docker / CI/CD` |
+| `Pandas / NumPy / SQL` | `TailwindCSS / TS` | `Vercel / Git` |
 
 ---
 
-### ⚔️ Tech Stack (The Toolbox)
+### 📂 Main_Repository
+**[Financial_Management_System]** `DEPLOYED_AT:` [https://finan-as-yb6q.vercel.app/](https://finan-as-yb6q.vercel.app/)  
+`STACK:` Next.js + Tailwind + Auth  
 
-```python
-class Bruna:
-    def __init__(self):
-        self.frontend = ["Next.js", "React", "TailwindCSS"]
-        self.backend = ["Python", "Django", "Flask", "Node.js"]
-        self.data_science = ["Pandas", "NumPy", "PowerBI", "SQL"]
-        self.devops_tools = ["Docker", "Vercel", "GitHub Actions", "CI/CD"]
+---
 
-    def say_hello(self):
-        return "Let's build something efficient today."
+### 📊 Performance_Metrics
+*Nota: Se os gráficos abaixo não aparecerem imediatamente, certifique-se de substituir o nome de usuário no link.*
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BRUNA-PATRICIA&show_icons=true&theme=dracula&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNA-PATRICIA&layout=compact&theme=dracula&hide_border=true" />
+</p>
+
+---
+
+### 📡 Terminal_Connection
+`[1]` [LinkedIn](https://linkedin.com/in/SEU_USER)  
+`[2]` [Email](mailto:SEU_EMAIL@GMAIL.COM)  
+`[3]` [Portfolio](https://finan-as-yb6q.vercel.app/)
+
+---
+
+```sql
+SELECT skill FROM bruna_skills 
+WHERE efficiency > 90 
+ORDER BY passion DESC;
+-- Result: Python, React, Data Analysis, DevOps
