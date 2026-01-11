@@ -1,51 +1,48 @@
-
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Analista_de_Sistemas-000?style=for-the-badge&logo=codetransfer&logoColor=7F00FF" />
-  <img src="https://img.shields.io/badge/Cientista_de_Dados-000?style=for-the-badge&logo=python&logoColor=7F00FF" />
-  <img src="https://img.shields.io/badge/Engenheira_DevOps-000?style=for-the-badge&logo=docker&logoColor=7F00FF" />
+  <img src="https://img.shields.io/badge/Software_Engineer-000?style=for-the-badge&logo=codetransfer&logoColor=7F00FF" />
+  <img src="https://img.shields.io/badge/Data_Scientist-000?style=for-the-badge&logo=python&logoColor=7F00FF" />
+  <img src="https://img.shields.io/badge/DevOps_Engineer-000?style=for-the-badge&logo=docker&logoColor=7F00FF" />
 </div>
 
 
-###  Overview.exe
-*Sistemas de alto desempenho exigem arquiteturas resilientes.* Sou especialista em unir o poder analítico do **Python** com a agilidade do **Next.js**, escalando aplicações através de práticas **DevOps**. Minha base acadêmica me permite entregar não apenas código, mas soluções estruturadas e documentadas.
+### ⚡ Overview.exe
+*High-performance systems require resilient architectures.* I specialize in bridging the gap between **Python's** analytical power and **Next.js** agility, scaling applications through modern **DevOps** practices. With a strong academic background, I deliver more than just code: I build well-documented, enterprise-grade solutions.
 
 
-###  Core_Intelligence (The Tech Stack)
+
+### 🧠 Core_Intelligence (The Tech Stack)
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
       <b>Backend & Data</b><br>
-      <code>Python</code> • <code>Django</code><br>
-      <code>Pandas</code> • <code>SQL</code><br>
-      <code>Flask</code>
+      <code>Python (Django/Flask)</code><br>
+      <code>Pandas & NumPy</code><br>
+      <code>PostgreSQL / NoSQL</code>
     </td>
     <td align="center" width="33%">
       <b>Frontend & UI</b><br>
-      <code>React.js</code> • <code>Next.js</code><br>
-      <code>TypeScript</code> • <code>Tailwind</code><br>
-      <code>Framer Motion</code>
+      <code>React.js / Next.js</code><br>
+      <code>TypeScript</code><br>
+      <code>Tailwind & Framer Motion</code>
     </td>
     <td align="center" width="33%">
-      <b>DevOps & Infra</b><br>
-      <code>Docker</code> • <code>Vercel</code><br>
-      <code>CI/CD Actions</code> • <code>Git</code><br>
-      <code>Security</code>
+      <b>DevOps & Cloud</b><br>
+      <code>Docker & Containers</code><br>
+      <code>CI/CD (GitHub Actions)</code><br>
+      <code>Vercel & AWS</code>
     </td>
   </tr>
 </table>
 
-
-
-###  Deployed_Solutions
-| Projeto | Status | Tech | Link |
+### 🚀 Deployed_Solutions
+| Project | Status | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Financial System** | `Production` | `Next.js / Tailwind` | [View Project](https://finan-as-yb6q.vercel.app/) |
-| **Professional Portfolio** | `Live` | `Next.js / SEO` | [View Project](https://brunacode.vercel.app/) |
+| **Financial Ecosystem** | `Production` | `Next.js / Tailwind / API` | [View Project](https://finan-as-yb6q.vercel.app/) |
+| **Professional Portfolio** | `Live` | `Next.js / SEO / UX` | [View Project](https://brunacode.vercel.app/) |
 
 
-###  Establish_Link
+### 📞 Establish_Connection
 <div align="center">
   <a href="https://br.linkedin.com/in/bruna-patricia-coutinho-868b0a275">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -58,12 +55,13 @@
   </a>
 </div>
 
-
 ```javascript
-// A busca pela automação perfeita nunca termina
-while (true) {
-  analyzeData();
-  developRobustCode();
-  deploySecurely();
-  learnNextTech();
+/**
+ * The pursuit of perfect automation is a continuous loop
+ */
+while (deployment.isSuccessful()) {
+  analyzeDataStream();
+  developRobustModules();
+  enforceSecurityProtocols();
+  scaleInfrastructure();
 }
