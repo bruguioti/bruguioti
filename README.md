@@ -1,46 +1,54 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Software_Engineer-000?style=for-the-badge&logo=codetransfer&logoColor=7F00FF" />
   <img src="https://img.shields.io/badge/Data_Scientist-000?style=for-the-badge&logo=python&logoColor=7F00FF" />
+  <img src="https://img.shields.io/badge/Flutter_Developer-000?style=for-the-badge&logo=flutter&logoColor=7F00FF" />
   <img src="https://img.shields.io/badge/DevOps_Engineer-000?style=for-the-badge&logo=docker&logoColor=7F00FF" />
 </div>
 
+<br />
 
-### ⚡ Overview.exe
-*High-performance systems require resilient architectures.* I specialize in bridging the gap between **Python's** analytical power and **Next.js** agility, scaling applications through modern **DevOps** practices. With a strong academic background, I deliver more than just code: I build well-documented, enterprise-grade solutions.
+<div align="center">
+  <h1> Olá, eu sou a Bruna Patricia 👩‍🏫💻</h1>
+  <p><i>Professora de Tecnologia | Software Engineer | Data Science Enthusiast</i></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F00FF&center=true&vCenter=true&width=500&lines=Transformando+dados+em+solu%C3%A7%C3%B5es;Ensinando+a+pr%C3%B3xima+gera%C3%A7%C3%A3o;Construindo+apps+com+Flutter;Automatizando+o+futuro+com+DevOps" alt="Typing SVG" />
+</div>
 
+### ⚡ Onde a Educação encontra a Engenharia
+Acredito que a tecnologia só é inovadora quando é compartilhada. Como **Professora**, a minha missão é simplificar conceitos complexos. Como **Engenheira**, o meu foco é construir sistemas que escalam e resolvem problemas reais com elegância e eficiência.
 
+---
 
 ### 🧠 Core_Intelligence (The Tech Stack)
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <b>Backend & Data</b><br>
-      <code>Python (Django/Flask)</code><br>
-      <code>Pandas & NumPy</code><br>
-      <code>PostgreSQL / NoSQL</code>
-    </td>
-    <td align="center" width="33%">
-      <b>Frontend & UI</b><br>
-      <code>React.js / Next.js</code><br>
-      <code>TypeScript</code><br>
-      <code>Tailwind & Framer Motion</code>
-    </td>
-    <td align="center" width="33%">
-      <b>DevOps & Cloud</b><br>
-      <code>Docker & Containers</code><br>
-      <code>CI/CD (GitHub Actions)</code><br>
-      <code>Vercel & AWS</code>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-### 🚀 Deployed_Solutions
-| Project | Status | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Financial Ecosystem** | `Production` | `Next.js / Tailwind / API` | [View Project](https://finan-as-yb6q.vercel.app/) |
-| **Professional Portfolio** | `Live` | `Next.js / SEO / UX` | [View Project](https://brunacode.vercel.app/) |
+| 📱 **Mobile & UI** | ⚙️ **Backend & Data** | ☁️ **DevOps & Infra** |
+| :--- | :--- | :--- |
+| **Flutter** / Dart | **Python** (FastAPI / Django) | **Docker** & Containers |
+| **Next.js** / React | **Data Science** (Pandas / GNN) | **GitHub Actions** (CI/CD) |
+| Tailwind CSS / Figma | PostgreSQL / SQLite | **Ansible** & OpenTofu |
 
+</div>
+
+---
+
+### 🚀 Deployed_Solutions (Destaques)
+
+| Projeto | Descrição | Status | Tech | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **FinanSmart** | Ecossistema para gestão financeira inteligente. | `Production` | `Next.js / API` | [Aceder](https://finan-as-yb6q.vercel.app/) |
+| **Bruville** | App multifuncional (Finanças, Compras e Tarefas). | `Build` | `Flutter / Dart` | [Repositório](https://github.com/bruguioti) |
+| **Justin Advocacia** | Plataforma profissional com foco em conversão e UX. | `Live` | `Next.js / SEO` | [Aceder](https://brunacode.vercel.app/) |
+
+---
+
+### 📊 GitHub Stats (Transparência Técnica)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruguioti&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=7F00FF&icon_color=7F00FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruguioti&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=7F00FF" />
+</div>
+
+---
 
 ### 📞 Establish_Connection
 <div align="center">
@@ -57,11 +65,11 @@
 
 ```javascript
 /**
- * The pursuit of perfect automation is a continuous loop
+ * O conhecimento é o único ativo que cresce quando é compartilhado.
  */
-while (deployment.isSuccessful()) {
-  analyzeDataStream();
-  developRobustModules();
-  enforceSecurityProtocols();
-  scaleInfrastructure();
+while (carreira.ativa()) {
+  ensinar();           // IFMT Campus Campo Verde
+  desenvolver();       // Flutter & Python
+  automatizar();       // DevOps Mindset
+  if (bugFound) solve();
 }
