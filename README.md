@@ -13,7 +13,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F00FF&center=true&vCenter=true&width=500&lines=Transformando+dados+em+solu%C3%A7%C3%B5es;Ensinando+a+pr%C3%B3xima+gera%C3%A7%C3%A3o;Construindo+apps+com+Flutter;Automatizando+o+futuro+com+DevOps" alt="Typing SVG" />
 </div>
 
-Acredito que a tecnologia só é inovadora quando é compartilhada. Como **Professora**, a minha missão é simplificar conceitos complexos. Como **Engenheira**, o meu foco é construir sistemas que escalam e resolvem problemas reais com elegância e eficiência.
 
 ---
 
