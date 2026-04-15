@@ -30,16 +30,6 @@ Acredito que a tecnologia só é inovadora quando é compartilhada. Como **Profe
 
 </div>
 
-
-
----
-
-### 📊 GitHub Stats (Transparência Técnica)
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruguioti&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=7F00FF&icon_color=7F00FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruguioti&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=7F00FF" />
-</div>
-
 ---
 
 ### 📞 Establish_Connection
