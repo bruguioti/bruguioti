@@ -13,12 +13,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F00FF&center=true&vCenter=true&width=500&lines=Transformando+dados+em+solu%C3%A7%C3%B5es;Ensinando+a+pr%C3%B3xima+gera%C3%A7%C3%A3o;Construindo+apps+com+Flutter;Automatizando+o+futuro+com+DevOps" alt="Typing SVG" />
 </div>
 
-### ⚡ Onde a Educação encontra a Engenharia
 Acredito que a tecnologia só é inovadora quando é compartilhada. Como **Professora**, a minha missão é simplificar conceitos complexos. Como **Engenheira**, o meu foco é construir sistemas que escalam e resolvem problemas reais com elegância e eficiência.
 
 ---
 
-### 🧠 Core_Intelligence (The Tech Stack)
+### Stack
 
 <div align="center">
 
@@ -32,7 +31,7 @@ Acredito que a tecnologia só é inovadora quando é compartilhada. Como **Profe
 
 ---
 
-### 📞 Establish_Connection
+### 📞 
 <div align="center">
   <a href="https://br.linkedin.com/in/bruna-patricia-coutinho-868b0a275">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
