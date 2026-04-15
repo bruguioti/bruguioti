@@ -31,7 +31,6 @@ Acredito que a tecnologia só é inovadora quando é compartilhada. Como **Profe
 
 ---
 
-### 📞 
 <div align="center">
   <a href="https://br.linkedin.com/in/bruna-patricia-coutinho-868b0a275">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
