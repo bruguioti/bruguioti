@@ -30,15 +30,7 @@ Acredito que a tecnologia só é inovadora quando é compartilhada. Como **Profe
 
 </div>
 
----
 
-### 🚀 Deployed_Solutions (Destaques)
-
-| Projeto | Descrição | Status | Tech | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **FinanSmart** | Ecossistema para gestão financeira inteligente. | `Production` | `Next.js / API` | [Aceder](https://finan-as-yb6q.vercel.app/) |
-| **Bruville** | App multifuncional (Finanças, Compras e Tarefas). | `Build` | `Flutter / Dart` | [Repositório](https://github.com/bruguioti) |
-| **Justin Advocacia** | Plataforma profissional com foco em conversão e UX. | `Live` | `Next.js / SEO` | [Aceder](https://brunacode.vercel.app/) |
 
 ---
 
