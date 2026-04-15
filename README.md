@@ -17,9 +17,11 @@ Acredito que a tecnologia só é inovadora quando é compartilhada. Como **Profe
 
 ---
 
-### Stack
+
 
 <div align="center">
+
+### Stack
 
 | 📱 **Mobile & UI** | ⚙️ **Backend & Data** | ☁️ **DevOps & Infra** |
 | :--- | :--- | :--- |
