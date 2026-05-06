@@ -5,4 +5,4 @@
 
 Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
 
-> "A oportunidade muitas vezes vem disfarçada de azar ou de derrota temporária." — *Napoleon Hill*
+
