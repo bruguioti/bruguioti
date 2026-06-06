@@ -24,16 +24,7 @@ Entusiasta de las tecnologías de vanguardia en el desarrollo web y móvil. Desa
 | **Back-end & Scripting** | Python |
 | **Entornos y Sistemas** | Kali Linux, CLI Linux, Git, Python Venv |
 
----
 
-### Indicadores de Desempeño (GitHub)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=corporate&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=corporate&langs_count=6" alt="Lenguajes más utilizados" height="180px"/>
-</p>
-
----
 
 ### Contacto y Conectividad profesional
 
