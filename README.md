@@ -5,7 +5,6 @@
 
 Entusiasta de las tecnologías de vanguardia en el desarrollo web y móvil. Desarrolladora orientada a la creación de aplicaciones modernas, eficientes y seguras, con un enfoque continuo en la investigación técnica.
 
----
 
 ### Perfil Profesional
 
@@ -14,7 +13,6 @@ Entusiasta de las tecnologías de vanguardia en el desarrollo web y móvil. Desa
 - **Seguridad y Sistemas:** Conocimientos prácticos en administración de sistemas y auditoría en entornos basados en **Kali Linux**.
 - **Investigación:** Dedicación actual al desarrollo de proyectos de investigación científica y tecnológica aplicados al software.
 
----
 
 ### Competencias Técnicas
 
