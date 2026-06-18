@@ -3,30 +3,34 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Bruna%20Patricia-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-patr%C3%ADcia-6b3b743b7/)](https://www.linkedin.com/in/bruna-patr%C3%ADcia-6b3b743b7/) 
 [![Gmail Badge](https://img.shields.io/badge/-brunaguioti2000@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunaguioti2000@gmail.com)](mailto:brunaguioti2000@gmail.com)
 
-Entusiasta de las tecnologías de vanguardia en el desarrollo web y móvil. Desarrolladora orientada a la creación de aplicaciones modernas, eficientes y seguras, con un enfoque continuo en la investigación técnica.
+Entusiasta de tecnologias de ponta no desenvolvimento web e análise de dados. Focada na criação de aplicações modernas, eficientes e escaláveis, com um forte compromisso com a pesquisa técnica e a resolução de problemas complexos em ambientes de desenvolvimento.
 
+---
 
-### Perfil Profesional
+### Perfil Profissional
 
-- **Desarrollo Web:** Orientada a la construcción de aplicaciones robustas y escalables utilizando el ecosistema de **Next.js**.
-- **Programación y Entornos:** Experiencia en el desarrollo de scripts y lógica con **Python**, incluyendo la gestión avanzada de entornos virtuales (`venv`).
-- **Seguridad y Sistemas:** Conocimientos prácticos en administración de sistemas y auditoría en entornos basados en **Kali Linux**.
-- **Investigación:** Dedicación actual al desarrollo de proyectos de investigación científica y tecnológica aplicados al software.
+* **Desenvolvimento Web:** Especialista na construção de aplicações robustas utilizando o ecossistema **Next.js** e React.
+* **Análise de Dados & Dashboards:** Experiência no desenvolvimento de interfaces interativas e protótipos de ciência de dados utilizando **Streamlit**.
+* **Programação e Automação:** Expertise em **Python**, com foco em automação, lógica de back-end e gerenciamento eficiente de ambientes virtuais (`venv`).
+* **Segurança e Infraestrutura:** Sólidos conhecimentos em administração de sistemas e auditoria técnica em ambientes **Kali Linux**.
+* **Pesquisa:** Atualmente dedicada ao desenvolvimento de projetos de pesquisa aplicada, unindo rigor acadêmico ao desenvolvimento de software.
 
+---
 
-### Competencias Técnicas
+### Competências Técnicas
 
-| Categoría | Tecnologías y Herramientas |
+| Categoria | Tecnologias e Ferramentas |
 | :--- | :--- |
-| **Front-end / Web Frameworks** | Next.js, React, JavaScript, HTML5, CSS3 |
-| **Back-end & Scripting** | Python |
-| **Entornos y Sistemas** | Kali Linux, CLI Linux, Git, Python Venv |
+| **Front-end / Web** | Next.js, React, JavaScript, HTML5, CSS3 |
+| **Data Science & UI** | **Streamlit**, Python |
+| **Back-end & Scripting** | Python, Automação de Scripts |
+| **Sistemas & DevOps** | Kali Linux, CLI (Terminal), Git, Python Venv |
 
+---
 
+### Contato e Conectividade
 
-### Contacto y Conectividad profesional
+Estou sempre aberta a colaborações em projetos de desenvolvimento, desafios de pesquisa tecnológica e trocas de conhecimento técnico.
 
-Disponible para colaboración en proyectos de desarrollo, investigación tecnológica e intercambio de conocimientos técnicos.
-
-- **LinkedIn:** [linkedin.com/in/bruna-patrícia-6b3b743b7](https://www.linkedin.com/in/bruna-patr%C3%ADcia-6b3b743b7/)
-- **Correo Electrónico:** [brunaguioti2000@gmail.com](mailto:brunaguioti2000@gmail.com)
+* **LinkedIn:** [linkedin.com/in/bruna-patrícia-6b3b743b7](https://www.linkedin.com/in/bruna-patr%C3%ADcia-6b3b743b7/)
+* **E-mail:** [brunaguioti2000@gmail.com](mailto:brunaguioti2000@gmail.com)
