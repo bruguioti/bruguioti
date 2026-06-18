@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Bruna%20Patricia-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-patr%C3%ADcia-6b3b743b7/)](https://www.linkedin.com/in/bruna-patr%C3%ADcia-6b3b743b7/) 
 [![Gmail Badge](https://img.shields.io/badge/-brunaguioti2000@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunaguioti2000@gmail.com)](mailto:brunaguioti2000@gmail.com)
 
-Entusiasta de tecnologias de ponta no desenvolvimento web e análise de dados. Focada na criação de aplicações modernas, eficientes e escaláveis, com um forte compromisso com a pesquisa técnica e a resolução de problemas complexos em ambientes de desenvolvimento.
+Gosto de construir ferramentas que fazem sentido no dia a dia. Com foco em desenvolvimento web e ciência de dados, dedico meu tempo a criar aplicações que sejam não apenas modernas, mas realmente úteis e escaláveis. Quando não estou codando, estou mergulhada em pesquisas técnicas ou tentando simplificar problemas complexos em ambientes de desenvolvimento.
 
 
 
