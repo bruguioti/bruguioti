@@ -5,7 +5,7 @@
 
 Entusiasta de tecnologias de ponta no desenvolvimento web e análise de dados. Focada na criação de aplicações modernas, eficientes e escaláveis, com um forte compromisso com a pesquisa técnica e a resolução de problemas complexos em ambientes de desenvolvimento.
 
----
+
 
 ### Perfil Profissional
 
@@ -15,7 +15,7 @@ Entusiasta de tecnologias de ponta no desenvolvimento web e análise de dados. F
 * **Segurança e Infraestrutura:** Sólidos conhecimentos em administração de sistemas e auditoria técnica em ambientes **Kali Linux**.
 * **Pesquisa:** Atualmente dedicada ao desenvolvimento de projetos de pesquisa aplicada, unindo rigor acadêmico ao desenvolvimento de software.
 
----
+
 
 ### Competências Técnicas
 
@@ -26,9 +26,9 @@ Entusiasta de tecnologias de ponta no desenvolvimento web e análise de dados. F
 | **Back-end & Scripting** | Python, Automação de Scripts |
 | **Sistemas & DevOps** | Kali Linux, CLI (Terminal), Git, Python Venv |
 
----
 
-### Contato e Conectividade
+
+### Contato 
 
 Estou sempre aberta a colaborações em projetos de desenvolvimento, desafios de pesquisa tecnológica e trocas de conhecimento técnico.
 
