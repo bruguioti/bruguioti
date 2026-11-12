@@ -8,10 +8,6 @@
     Engenheira de Software & Desenvolvedora Full-Stack
   </h3>
 
-  <p style="font-size: 1rem; color: #6b7280; margin-bottom: 1.5rem; max-width: 600px;">
-    Transformando ideias em soluções digitais eficientes, escaláveis e de alta performance através de tecnologia de ponta.
-  </p>
-
   <a href="https://wa.me/5544991659508" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; background-color: #25D366; color: #ffffff; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: background-color 0.2s;">
     <span>Fale comigo no WhatsApp</span>
   </a>
